@@ -7,4 +7,4 @@ The purpose of this analysis was to determine whether or not the temperatures in
   
   ## June Results
   To start we formatted all of the collected June data into a list to make it easier for us to view.
-  ![This is an image(https://github.com/Bren42/surfs_up/blob/main/resources/challenge_june_list.png)
+  ![This is an image](https://github.com/Bren42/surfs_up/blob/main/resources/challenge_june_list.png)
